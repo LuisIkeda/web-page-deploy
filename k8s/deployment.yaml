@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: webpage
-        image: luisikeda/web-color:green
+        image: luisikeda/web-color:blue
         ports:
         - containerPort: 80
 ---
